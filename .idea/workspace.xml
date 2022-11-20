@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4cf5aa49-f5c0-4e26-a77d-d4cf67eb0151" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../basesettings/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../basesettings/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locust/load_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locust/locustfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../locust/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mynpm/ppm-cli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mynpm/ppm-cli/script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mynpm/ppm-cli/src/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myprojectppm/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmtippen/helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmtippen/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../wmtippen/table.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Archiv/Section Code (Start)/node_modules/clone/clone.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asyncio/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Authorization/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Authorization/app/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Authorization/app/crud.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Authorization/app/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Authorization/app/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Authorization/app/models_and_schema.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Authorization/app/sendmail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRON/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CRON/scraper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CleanCode/app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CleanCode/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContextManager/cm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContextManager/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ContextManager/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crojobjob/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorators/classdec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorators/closure.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorators/lazy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorators/memozation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorators/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Decorators/test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesignPatternsYT/adapter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesignPatternsYT/everythingisanobjekt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesignPatternsYT/factory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesignPatternsYT/strategy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DockerAuth/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DockerAuth/docker-compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DockerFastAPI/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DockerFastAPI/app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FastAPIApps/apiv1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FastAPIApps/apiv2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FastAPIApps/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FastAPICoding/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FastAPIDocker/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FastAPIDocker/app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FastAPIDocker/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FastAPIProject/asyncio_script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FastAPIProject/docker-compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FastAPIProject/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FastAPIProject/postgres_con.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flexbox/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Flexbox/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fullstack/app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fullstack/app/crud.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fullstack/app/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fullstack/app/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fullstack/app/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fullstack/app/schemas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generators/classprops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generators/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generators/x.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GradioChatbot/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IntermediatePython/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java/src/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KafkaPython/consumer2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyCloakFastAPI/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KeyCloakFastAPI/realm-export.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MachineLearningAPP/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MachineLearningAPP/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MachineLearningAPP/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MachineLearningAPP/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewbieErrorsNew/functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternsYT/adapter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternsYT/factory.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PatternsYT/strategy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyCharm/package/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyCharm/package/mypackage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PyCharm/package/testfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonGenerators/mycounter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonModules/meinpackage/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonModules/meinpackage/module3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonModules/meinpackage/module4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonModules/module1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonModules/module2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProjectYT/.flake8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProjectYT/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProjectYT/.pre-commit-config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProjectYT/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProjectYT/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProjectYT/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProjectYT/pyproject.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProjectYT/src/mytestpackage.egg-info/PKG-INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProjectYT/src/mytestpackage.egg-info/SOURCES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProjectYT/src/mytestpackage.egg-info/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProjectYT/src/mytestpackage.egg-info/requires.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProjectYT/src/mytestpackage.egg-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProjectYT/src/sample_package/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProjectYT/src/sample_package/sample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonProjectYT/tests/test_sample.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedisPythonYT/docker-compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedisPythonYT/redis.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RedisPythonYT/script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Refactoring/setup.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Refactoring/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Refactoring/src/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Refactoring/tests/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Refactoring/tests/unit/test_preprocessing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Refactoring/tox.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RefreshToken/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RefreshToken/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SQLInjection/script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SqlModel/script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing/.idea/Testing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testing/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingYT/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingYT/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestingYT/tests/test_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webshop/app/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webshop/app/crud.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webshop/app/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webshop/app/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webshop/app/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webshop/app/schemas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webshop/app/sendmail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Webshop/emailbody.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advancedlogging/basiclogger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advancedlogging/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../advancedlogging/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../attrclass/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authorizationapp/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authorizationapp/app/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authorizationapp/app/crud.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authorizationapp/app/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authorizationapp/app/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authorizationapp/app/models_and_schemas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authorizationapp/app/sendmail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/.idea/basics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/1.primitives.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/10.methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/11.dictionaries.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/12.function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/13.mapfiltercomprehensions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/14.exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/2.variablen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/3.output.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/4.operators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/5.comparisons.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/6.inputs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/7.verzweigungen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/8.iterables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/9.schleifen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/9Übung.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basics/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/generators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/inhertitefromdict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../collections/tips.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coroutines/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cronjobs/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cronjobs/scraper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customlogging/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customlogging/customlogging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customlogging/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dalle/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dalle/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/docker-compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decorator/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../decoratorsyt/decorators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/BaseBallCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/MyApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/MyLoggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/TestCkass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/TrackCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designpatterns/AdapterPattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designpatterns/FactoryPattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designpatterns/StrategyPattern.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designpatterns/factory_a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designpatterns/factory_b.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../designpatterns/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dotsyntax/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fastapiYT/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flaskpyscript/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flaskpyscript/static/script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flaskpyscript/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gens/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../googleauth/app/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../isvsistgleich/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iterators/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iterators/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iters/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basics/src/Collections.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basics/src/Earth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basics/src/Importing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basics/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basics/src/luv2code/springdemo/BaseBallCoach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basics/src/luv2code/springdemo/Coach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basics/src/luv2code/springdemo/HelloSpring.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basics/src/luv2code/springdemo/MyApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basics/src/test/ControlFlow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java_basics/src/test/Dictioary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javabasics/src/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javabasics/src/mainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafkaclient/consumer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafkaclient/create_topic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafkaclient/producer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafkayt/consumer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafkayt/create_topics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafkayt/docker-compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafkayt/producer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../logging/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matchcase/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matchcase/simple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../moulesProject/module1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../moulesProject/package1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../moulesProject/package1/module2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../moulesProject/script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mylittleapi/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myproject/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbieerrors/1.comparison.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbieerrors/10.unpacking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbieerrors/11.ifstatements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbieerrors/12.printvslog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbieerrors/2.dictionaries.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbieerrors/3.fstrings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbieerrors/4.loops.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbieerrors/5.flask.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbieerrors/6.mutability.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbieerrors/7.returnstypes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbieerrors/8.mutable_defaults.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newbieerrors/9.scope.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newvsinit/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newvsinit/script.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../numba/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopmethods/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopmethods/normal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopmethods/overloading.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oopmethods/private.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../os/data/test2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../os/file1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../os/file2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../os/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../os/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../osyoutube/data/file3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../osyoutube/data/file4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../osyoutube/data/subfolder/file5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../osyoutube/file1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../osyoutube/file2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../osyoutube/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyprojectfast/scripts/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyprojectfast/static/pyscript.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pyprojectfast/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pytest/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pytest/test_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pytestyt/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pytestyt/tests/test_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/docker-compose.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/redis.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonProject/redis.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../refactoringa/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../router/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routerapp/books.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routerapp/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routerapp/novel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springdemo1/src/MyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stockapp/stockapp/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stocks/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-aop-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-aop-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-aop-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-aspects-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-aspects-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-aspects-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-beans-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-beans-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-beans-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-context-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-context-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-context-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-context-indexer-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-context-indexer-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-context-indexer-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-context-support-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-context-support-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-context-support-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-core-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-core-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-core-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-expression-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-expression-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-expression-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-instrument-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-instrument-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-instrument-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-jcl-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-jcl-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-jcl-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-jdbc-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-jdbc-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-jdbc-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-jms-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-jms-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-jms-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-messaging-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-messaging-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-messaging-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-orm-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-orm-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-orm-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-oxm-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-oxm-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-oxm-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-r2dbc-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-r2dbc-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-r2dbc-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-test-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-test-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-test-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-tx-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-tx-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-tx-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-web-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-web-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-web-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-webflux-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-webflux-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-webflux-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-webmvc-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-webmvc-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-webmvc-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-websocket-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-websocket-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/lib/spring-websocket-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/tests/test_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../toexe/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typerpackage/mystockapp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typerpackage/mystockapp/mystockapp/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untertitel/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youtubeapi/add_to_startup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ytcontextmanager/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ytcontextmanager/text.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Hnmm1mm3XKbRinrZ76eG1c7cbw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="makeit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4cf5aa49-f5c0-4e26-a77d-d4cf67eb0151" name="Changes" comment="" />
+      <created>1668929377455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668929377455</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
